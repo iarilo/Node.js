@@ -1,0 +1,31 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "private":"false",
+  "description": "Package.json getting weather",
+  "main": "index.js",
+  "bin": "index.js",
+  
+
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Package.json",
+    "getting",
+    "weather"
+  ],
+  "author": "Виталий Брынза",
+  "license": "ISC",
+  "homepage": "https://purpleschool.ru",
+  "repository": {
+    "type": "git",
+    "url": "https://purpleschool.ru"
+  },
+  "bugs": {
+    "url": "https://purpleschool.ru",
+    "email": "brynzav2@gmail.com"
+  }
+
+}
